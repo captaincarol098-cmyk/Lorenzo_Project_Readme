@@ -1,4 +1,4 @@
-## 🍯 Saudinian Dates Varieties 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/f8a96f6e-4c3e-4f48-9e52-bdd4df096701" />## 🍯 Saudinian Dates Varieties 
 
 Below are the 10 date varieties as a class an each with its description and corresponding image.
 
@@ -8,7 +8,7 @@ Below are the 10 date varieties as a class an each with its description and corr
 Soft and slightly dry dates known for their golden color and sweet flavor. Ideal for snacking and energy boosts.
 
 📸 **Screenshot:**  
-<img src="[screenshots/dates/sagai.png](https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/screenshots/sagai.jpg)" width="320" />
+<img height="225" alt="image" src="https://github.com/user-attachments/assets/ec65b3a5-883d-4cb9-b192-b38fa7969a4d" width="320" />
 
 ---
 
