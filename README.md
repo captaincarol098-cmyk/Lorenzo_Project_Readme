@@ -1,5 +1,5 @@
-<img width="727" height="1000" alt="image" src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" />
-Saudinian Dates Varieties
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" />Saudinian Dates Varieties
+
 
 
 Below are the 10 date varieties as a class an each with its description and corresponding image.
