@@ -3,8 +3,7 @@
   <tr>
     <td colspan="3" style="border: none; padding: 20px 0; text-align: center;">
      <div align="center" style="margin-bottom: 30px;">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="100" alt="Saudi Dates" />
+  <div style="display: flex; align-items: center; justify-content: center;"> 
     <h1 style="margin: 0 0 0 10px;">Saudinian Dates Varieties</h1>
   </div>
 </div>
