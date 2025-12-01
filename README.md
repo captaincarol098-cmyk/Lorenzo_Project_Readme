@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="100" alt="Saudi Dates" />
+  <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="300" alt="Saudi Dates" />
   <h1>Saudinian Dates Varieties</h1>
 </div>
 
