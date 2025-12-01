@@ -1,6 +1,6 @@
-## 🍯 Date Varieties (Class Descriptions + Screenshots)
+## 🍯 Saudinian Dates Varieties 
 
-Below are the 10 date varieties included in this project, each with its description and corresponding Flutter app screenshot.
+Below are the 10 date varieties as a class an each with its description and corresponding image.
 
 ---
 
@@ -8,7 +8,7 @@ Below are the 10 date varieties included in this project, each with its descript
 Soft and slightly dry dates known for their golden color and sweet flavor. Ideal for snacking and energy boosts.
 
 📸 **Screenshot:**  
-<img src="screenshots/dates/sagai.png" width="320" />
+<img src="[screenshots/dates/sagai.png](https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/screenshots/sagai.jpg)" width="320" />
 
 ---
 
