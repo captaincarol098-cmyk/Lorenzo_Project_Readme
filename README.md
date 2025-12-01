@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 5px;">
     <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="400" alt="Saudi Dates" />
     <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
   </div>
