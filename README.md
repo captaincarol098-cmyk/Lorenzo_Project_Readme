@@ -1,6 +1,13 @@
-
-<img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="400" alt="Saudi Dates" />Saudinian Dates Varieties
-
+<table align="center" style="margin-bottom: 20px; border: none;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="50" height="100" alt="Saudi Dates" />
+    </td>
+    <td style="border: none; padding: 0 0 0 10px;">
+      <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
+    </td>
+  </tr>
+</table>
 
 Below are the 10 date varieties as a class and each with its description and corresponding image.
 
