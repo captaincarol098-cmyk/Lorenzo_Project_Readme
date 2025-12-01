@@ -1,4 +1,4 @@
-<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" />Saudinian Dates Varieties
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" />Saudinian Dates Varieties
 
 
 
