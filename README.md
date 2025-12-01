@@ -3,8 +3,7 @@
   <tr>
     <td colspan="3" style="border: none; padding: 20px 0; text-align: center;">
       <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-        <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="100" alt="Saudi Dates" />
-        <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
+        <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="100" height="150" alt="Saudi Dates" /> <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
       </div>
       <p style="margin: 15px 0 20px 0;">Below are the 10 date varieties as a class and each with its description and corresponding image.</p>
     </td>
