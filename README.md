@@ -1,5 +1,4 @@
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a15cef65-9e77-4cc4-b09d-e0dd6acdd907" />
-## 🍯 Saudinian Dates Varieties 
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/a15cef65-9e77-4cc4-b09d-e0dd6acdd907" /> Saudinian Dates Varieties 
 
 Below are the 10 date varieties as a class an each with its description and corresponding image.
 | Date Variety | Description | Screenshot |
