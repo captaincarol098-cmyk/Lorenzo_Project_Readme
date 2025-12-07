@@ -3,6 +3,7 @@
   <tr>
     <td colspan="3" style="border: none; padding: 20px 0; text-align: center;">
       <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+        <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="100" alt="Saudi Dates" />
         <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
       </div>
       <p style="margin: 15px 0 20px 0;">Below are the 10 date varieties as a class and each with its description and corresponding image.</p>
@@ -94,7 +95,7 @@
       </ul>
     </td>
     <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/SaudiAppsS.png" width="300" style="max-width: 100%;" alt="Analytics Dashboard" />
+      <img src="https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/main/SaudiAppsS.png?raw=true" width="300" style="max-width: 100%;" alt="Analytics Dashboard" />
     </td>
   </tr>
   
@@ -112,7 +113,7 @@
       </ul>
     </td>
     <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/SaudiAppsSs.png" width="300" style="max-width: 100%;" alt="Activity Analytics" />
+      <img src="https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/main/SaudiAppsSs.png?raw=true" width="300" style="max-width: 100%;" alt="Activity Analytics" />
     </td>
   </tr>
   
@@ -130,7 +131,7 @@
       </ul>
     </td>
     <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/SaudiApps.png" width="300" style="max-width: 100%;" alt="Main App Interface" />
+      <img src="https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/main/SaudiApps.png?raw=true" width="300" style="max-width: 100%;" alt="Main App Interface" />
     </td>
   </tr>
   
@@ -148,7 +149,7 @@
       </ul>
     </td>
     <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/SaudiAppsSss.png" width="300" style="max-width: 100%;" alt="Detailed Analytics" />
+      <img src="https://github.com/captaincarol098-cmyk/Lorenzo_Project_Readme/blob/main/SaudiAppsSss.png?raw=true" width="300" style="max-width: 100%;" alt="Detailed Analytics" />
     </td>
   </tr>
 </table>
