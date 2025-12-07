@@ -3,6 +3,7 @@
   <tr>
     <td colspan="3" style="border: none; padding: 20px 0; text-align: center;">
       <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+        <img src="https://github.com/user-attachments/assets/fb5efdc2-bf9a-4999-9d17-75fc715f38b5" width="200" height="100" alt="Saudi Dates" />
         <h1 style="margin: 0;">Saudinian Dates Varieties</h1>
       </div>
       <p style="margin: 15px 0 20px 0;">Below are the 10 date varieties as a class and each with its description and corresponding image.</p>
@@ -66,5 +67,89 @@
     <td style="padding: 12px; border: 1px solid #ddd;"><strong>Mazafati Dates</strong></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Soft, moist, and dark dates known as "Bam Dates." Juicy and rich in flavor.</td>
     <td style="padding: 12px; border: 1px solid #ddd; text-align: center;"><img src="https://github.com/user-attachments/assets/47d0d030-3a58-4f17-88cc-5df56de9396b" width="120" height="120" /></td>
+  </tr>
+</table>
+
+---
+
+## 📱 App Analytics & Screenshots
+
+<table align="center" style="width: 100%; border: none; margin-top: 30px;">
+  <tr>
+    <td colspan="2" style="border: none; padding: 0; text-align: center;">
+      <h2 style="margin: 0 0 20px 0;">Saudi Dates Classifier Analytics</h2>
+    </td>
+  </tr>
+  
+  <!-- Analytics Screenshot 1 -->
+  <tr>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; vertical-align: top;">
+      <h3 style="margin-top: 0;">📊 Main Analytics Dashboard</h3>
+      <p>Comprehensive analytics dashboard showing detection timeline, data verification, and visualization metrics for date variety classification.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Detection timeline tracking</li>
+        <li>Data verification metrics</li>
+        <li>Visualization tools</li>
+        <li>Accuracy rate monitoring</li>
+      </ul>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/SaudiAppsS.png" width="300" style="max-width: 100%;" alt="Analytics Dashboard" />
+    </td>
+  </tr>
+  
+  <!-- Analytics Screenshot 2 -->
+  <tr>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; vertical-align: top;">
+      <h3 style="margin-top: 0;">📈 Activity & Performance Analytics</h3>
+      <p>Detailed activity statistics showing recent detections, security metrics, and performance analysis for each date variety.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Recent activity tracking</li>
+        <li>Security percentage metrics</li>
+        <li>Variety distribution analysis</li>
+        <li>Performance statistics</li>
+      </ul>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/SaudiAppsSs.png" width="300" style="max-width: 100%;" alt="Activity Analytics" />
+    </td>
+  </tr>
+  
+  <!-- Analytics Screenshot 3 -->
+  <tr>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; vertical-align: top;">
+      <h3 style="margin-top: 0;">📱 Main App Interface</h3>
+      <p>Primary application interface for the Saudi Dates Classifier with search functionality, safety features, and detection records.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Image selection (camera/gallery)</li>
+        <li>Detection records tracking</li>
+        <li>Test characteristics analysis</li>
+        <li>Camera and gallery integration</li>
+      </ul>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/SaudiApps.png" width="300" style="max-width: 100%;" alt="Main App Interface" />
+    </td>
+  </tr>
+  
+  <!-- Analytics Screenshot 4 -->
+  <tr>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; vertical-align: top;">
+      <h3 style="margin-top: 0;">🔍 Detailed Analytics Overview</h3>
+      <p>Comprehensive analytics overview with detailed metrics, classification data, and in-depth analysis of date detection accuracy.</p>
+      <p><strong>Features:</strong></p>
+      <ul>
+        <li>Detailed analytics metrics</li>
+        <li>Classification accuracy data</li>
+        <li>Detection statistics</li>
+        <li>Performance visualization</li>
+      </ul>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd; width: 50%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/SaudiAppsSss.png" width="300" style="max-width: 100%;" alt="Detailed Analytics" />
+    </td>
   </tr>
 </table>
